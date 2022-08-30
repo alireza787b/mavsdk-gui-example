@@ -6,14 +6,14 @@ This is just a very minimal MavSDK GUI Example created with TKinter.
 It can connectes to a PX4 drine using UDP Port specified and you can command it to take-off and land.
 This example just show you the first step and you can complete this app beased on your need.
 
-Requirements:
-Python +3.6 (Created and tested with Python 3.10)
-MavSDK Installed
-PX4 SITL (Jmavsim, etc.)
+Requirements: <br />
+Python +3.6 (Created and tested with Python 3.10)<br />
+MavSDK Installed<br />
+PX4 SITL (Jmavsim, etc.)<br />
+<br />
 
 
-
-To install mavsdk-python, simply run:
+To install mavsdk-python, simply run:<br />
 
 pip3 install mavsdk
 
