@@ -199,7 +199,7 @@ pxhOut.insert(END,"Drone state will be shown here..."+ '\n')
 
 
 linkFooter = StringVar()
-linkFooter.set("Alireza Ghader - GitHub: Alireza787b")
+linkFooter.set("Alireza Ghaderi - GitHub: Alireza787b")
 
 footerLink = Label( root, fg="green", cursor="hand2" ,textvariable=linkFooter )
 
