@@ -25,7 +25,7 @@ MAVSDK Examples:
 https://github.com/mavlink/MAVSDK-Python/tree/main/examples
 
 
-You tube Video:
+Youtube Video:
 https://youtu.be/SM0WtREzqqE
 
 <a href="https://youtu.be/SM0WtREzqqE" target="_blank"> <img width="1920" alt="Screen Shot 1401-06-09 at 07 32 58" src="https://user-images.githubusercontent.com/30341941/187584703-b9aa3910-4aff-40ec-ad99-11c8e773cb07.png"></a>
